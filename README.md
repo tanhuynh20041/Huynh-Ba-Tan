@@ -1,2 +1,2 @@
-# Huynh-Ba-Tan
+# Group2_Learning
 Learning App
